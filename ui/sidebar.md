@@ -1,19 +1,17 @@
-# snowChat
+# DataChat
 
-SnowChat is an intuitive and user-friendly application that allows you to interact with your Snowflake data using natural language queries. Type in your questions or requests, and SnowChat will generate the appropriate SQL query and return the data you need.
+DataChat demonstrates an AI-based, user-friendly approach to interacting with your database
 
 ## Features
 
-- **Conversational AI**: Harnesses ChatGPT to translate natural language into precise SQL queries.
-- **Conversational Memory**: Retains context for interactive, dynamic responses.
-- **Snowflake Integration**: Offers seamless, real-time data insights straight from your Snowflake database.
+- **Conversational AI**: Uses AI to translate text into SQL queries and semantic searches.
+- **Database Integration**: Offers seamless, real-time data insights straight from your database.
 - **Self-healing SQL**: Proactively suggests solutions for SQL errors, streamlining data access.
-- **Interactive User Interface**: Transforms data querying into an engaging conversation, complete with a chat reset option.
 
-Here are some example queries you can try with SnowChat:
+## Examples
 
-- Write SQL code to show me the total revenue for each product category.
-- Who are the top 10 customers by sales?
-- What is the average order value for each region?
-- How many orders were placed last week?
-- Display the list of products with their prices.
+Sample queries you can try with DataChat:
+ 
+- Display the entire blueprint database with graphic image and with all product and vendor details. 
+- Show the blueprints that result in a product greater than 20 pounds.
+- Are there any blueprints related to shaving?
